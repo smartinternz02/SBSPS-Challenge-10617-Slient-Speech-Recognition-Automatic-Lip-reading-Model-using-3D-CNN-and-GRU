@@ -10,8 +10,9 @@
 The "Silent Speech Recognition: Automatic Lip Reading Model Using 3D CNN And GRU" project is aimed at developing an advanced system that can recognize and interpret silent speech by analyzing lip movements. This innovative approach combines the power of 3D Convolutional Neural Networks (CNN) and Gated Recurrent Units (GRU), allowing the model to effectively process and interpret the dynamic visual cues of lip movements for silent speech recognition.
 
 **Project Architecture:**
-![Project Architecture](gallery.jpg)
-<br />
+<br>
+<div style="text-align:center"><img src="gallery.jpg" /></div>
+<br>
 
 
 **Project Purpose:**
