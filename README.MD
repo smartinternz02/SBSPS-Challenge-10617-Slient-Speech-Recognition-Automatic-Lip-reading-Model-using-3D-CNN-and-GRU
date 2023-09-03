@@ -11,6 +11,7 @@ The "Silent Speech Recognition: Automatic Lip Reading Model Using 3D CNN And GRU
 
 **Project Architecture:**
 ![Project Architecture](gallery.jpg)
+<br />
 
 
 **Project Purpose:**
