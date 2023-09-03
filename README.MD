@@ -1,6 +1,6 @@
 **Project Title:** Silent Speech Recognition: Automatic Lip Reading Model Using 3D CNN And GRU
 
-**Team ID:** SPS_PRO_4000
+**Project ID:** SPS_PRO_4000
 
 **Team Members:**
 - Md. Anas Jamal
